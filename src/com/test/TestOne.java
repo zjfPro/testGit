@@ -8,6 +8,7 @@ public class TestOne {
 	}
 	public void dd(){
 		System.out.println("1");
+		System.out.println("2");
 	}
 
 }
