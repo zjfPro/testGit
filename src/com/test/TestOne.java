@@ -6,5 +6,8 @@ public class TestOne {
 		System.out.println("1122334445557777");
 		System.out.println("11223344455577778888");
 	}
+	public void dd(){
+		
+	}
 
 }
