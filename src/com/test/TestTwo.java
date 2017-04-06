@@ -7,5 +7,7 @@ public class TestTwo {
 		System.out.println("22222");
 		System.out.println("33333");
 	}
-
+	public void tt(){
+		System.out.println("1");
+	}
 }
