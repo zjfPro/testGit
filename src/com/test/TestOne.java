@@ -7,7 +7,7 @@ public class TestOne {
 		System.out.println("1122334445557777888899");
 	}
 	public void dd(){
-		
+		System.out.println("1");
 	}
 
 }
